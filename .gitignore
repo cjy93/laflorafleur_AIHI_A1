@@ -1,1 +1,4 @@
+# All these are to be ignored
 .DS_Store
+watson-assistant-credentials.json
+ibm-db2-credentials.json
